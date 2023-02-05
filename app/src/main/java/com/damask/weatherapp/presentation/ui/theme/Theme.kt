@@ -1,4 +1,4 @@
-package com.damask.weatherapp.ui.theme
+package com.damask.weatherapp.presentation.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme

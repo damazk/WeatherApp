@@ -1,5 +1,6 @@
 # WeatherApp
-This app gives you the ability to deterine the weather in your area
+
+In this app I implemented clean MVVM architecture and used Open Meteo API: https://open-meteo.com/
 
 ![image](https://user-images.githubusercontent.com/46053514/218157131-2439ef85-dc7b-4fe2-94bc-acb16d735185.png)
 
